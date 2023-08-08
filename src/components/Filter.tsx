@@ -4,13 +4,11 @@ import React, { useState } from "react";
 import Wrapper from "@/components/Wrapper";
 import Circle from "@/components/Circle";
 import SubComponent from "@/components/SubComponent";
-<<<<<<< HEAD
 import PriceRange from "./priceRange";
 import SortBy from "./sortBy";
-=======
->>>>>>> bac42193460d9ad09a7dc56f04fea0ef7bc1fea3
 
-// import SubComponent3 from "./subComponent3";
+
+
 
 const Filter = () => {
   return (
@@ -36,10 +34,10 @@ const Filter = () => {
           "Date, new to old",
         ]}
       />
-<<<<<<< HEAD
 
-=======
->>>>>>> bac42193460d9ad09a7dc56f04fea0ef7bc1fea3
+
+
+
     </Wrapper>
   );
 };
